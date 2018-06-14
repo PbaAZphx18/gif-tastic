@@ -1,0 +1,21 @@
+body {
+  background: rgb(168, 241, 201);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+button {
+  border-radius: 10px;
+}
+
+button a:hover {
+  background-color: #ff7f50;
+}
+/* 
+#newAnimal {
+  border-radius: 10px;
+}
+
+#newAnimal hover {
+  background-color: #ff7f50;
+} */

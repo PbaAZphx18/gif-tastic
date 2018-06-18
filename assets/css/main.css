@@ -11,6 +11,10 @@ button {
 button a:hover {
   background-color: #ff7f50;
 }
+
+.float {
+  float: left;
+}
 /* 
 #newAnimal {
   border-radius: 10px;
